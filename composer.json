@@ -1,6 +1,6 @@
 {
-    "name": "pysys/bank-account",
-    "description": "Connect to bank account",
+    "name": "pysys/tools",
+    "description": "Tools from PYSys package",
     "require": {
         "nette/nette": "2.1",
         "php": ">=5.3.0"

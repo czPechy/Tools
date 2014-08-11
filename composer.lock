@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c338cba0ce9ce704c27e92d979a1523b",
+    "hash": "93a5da11451d0fe9709b8eee33abd2b6",
     "packages": [
         {
             "name": "nette/nette",
@@ -84,9 +84,9 @@
 
     ],
     "prefer-stable": false,
-    "platform": [
-
-    ],
+    "platform": {
+        "php": ">=5.3.0"
+    },
     "platform-dev": [
 
     ]
